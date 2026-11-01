@@ -1,0 +1,38 @@
+Chaitanya Malineni
+Headline: Looking for full time Software Engineer roles requiring sponsorship
+Location: Dallas-Fort Worth Metroplex
+LinkedIn: www.linkedin.com/in/chaitanya-malineni
+
+Top Skills
+REST APIs, Grafana, Prometheus.io
+
+Certifications / courses
+Learning webpack 4, Express Essential Training, Agile Development Practices, Flask Essential Training, Learning Personal Branding
+
+Summary
+Senior Software Engineer (Full-Stack) with 8+ years designing and scaling distributed systems, event-driven platforms, and microservices. Architected multi-region messaging systems supporting 300+ microservices, processing 2M+ events/day and scaling to 10K RPS peak throughput with high availability and production reliability. Experienced in AWS cloud infrastructure and building AI-powered backend services and agentic workflows.
+Key wins:
+- Led zero-downtime schema migrations with full backward compatibility across 300+ services.
+- Improved reliability with better retry/dead-letter handling, monitoring/alerting, and incident reduction.
+- Built REST APIs and serverless workflows (Lambda/Step Functions/API Gateway) with CI/CD and automated testing.
+- Reduced API latency by 40% through caching, query optimization, and performance tuning.
+Cloud & stack: Node.js/Java/Python/TypeScript, AWS (Lambda/ECS/EC2/API Gateway/S3/SQS/CloudWatch/CloudFormation), Docker/Kubernetes, RabbitMQ, PostgreSQL/MySQL/DynamoDB/MongoDB, Prometheus/Grafana, OpenAI API + LLM integration.
+
+Experience
+
+SS&C Intralinks
+- Senior Software Engineer, April 2025 - Present. Promoted from Software Engineer.
+- Software Engineer, July 2022 - April 2025.
+Architected and owned a multi-region event-driven messaging platform supporting over 300 microservices and mission-critical enterprise workflows. Designed and operated highly available backend services processing over 2M events/day at peak throughput of 10K RPS. Built scalable REST APIs and backend services enabling reliable communication across distributed cloud-native applications. Improved platform reliability through retry redesign, monitoring, observability, and incident response, reducing production issues.
+
+Idexcel - Software Engineer, September 2020 - July 2022 (Dallas, Texas). Client platforms included Verizon and Dish Network.
+Built React-based enterprise web applications and scalable Node.js backend services and REST APIs supporting enterprise monitoring platforms serving high-traffic applications, including reusable UI components in JavaScript, TypeScript, HTML and CSS. Built cloud-native, serverless backend applications on AWS using Lambda, API Gateway, Step Functions, S3, SQS and CloudWatch. Improved software quality through automated testing, CI/CD pipelines, and production monitoring.
+
+Axxess - Engineering Intern, January 2020 - March 2020 (Dallas, Texas).
+
+Tata Consultancy Services - Assistant System Engineer / Software Engineer, September 2016 - July 2018 (Mumbai, Maharashtra, India).
+Developed responsive React-based enterprise web applications using JavaScript and integrated REST APIs to deliver customer-facing features. Reduced API response latency by 40% through backend optimization, efficient query design, and caching. Improved API scalability and distributed system performance by modernizing enterprise backend services.
+
+Education
+The University of Texas at Dallas - Master's degree, Computer Science (2018 - 2020)
+VR Siddhartha Engineering College - Bachelor of Technology, Computer Science (2012 - 2016)
